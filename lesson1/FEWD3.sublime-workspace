@@ -3,15 +3,47 @@
 	{
 		"selected_items":
 		[
+			[
+				"borde",
+				"border-color"
+			],
+			[
+				"ali",
+				"vertical-align"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"im",
+				"IMG	Tag"
+			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "solutions/cookie_recipe/index.html",
+			"file": "/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/homework/week1/resume/index.html",
 			"settings":
 			{
-				"buffer_size": 1876,
+				"buffer_size": 1252,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/homework/week2/index.html",
+			"settings":
+			{
+				"buffer_size": 2592,
 				"line_ending": "Unix"
 			}
 		}
@@ -19,9 +51,61 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 367.0,
+		"height": 392.0,
 		"selected_items":
 		[
+			[
+				"ls",
+				"Sort Lines (Case Sensitive)"
+			],
+			[
+				"psh",
+				"Git: Push"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"git diff",
+				"Git: Diff Staged"
+			],
+			[
+				"git log",
+				"Git: Log All"
+			],
+			[
+				"diff al",
+				"Git: Diff All"
+			],
+			[
+				"git cust",
+				"Git: Custom Command"
+			],
+			[
+				"stash",
+				"Git: Stash Changes"
+			],
+			[
+				"git dif",
+				"Git: Diff All"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
 			[
 				"list",
 				"Package Control: List Packages"
@@ -31,7 +115,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 575.0
+		"width": 400.0
 	},
 	"console":
 	{
@@ -48,6 +132,15 @@
 	},
 	"file_history":
 	[
+		"/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/homework/week1/resume/style.css",
+		"/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/lesson1/solutions/cookie_recipe/style.css",
+		"/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/homework/week2/fashion_photo2.jpeg",
+		"/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/homework/week2/fashion_photo.jpeg",
+		"/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/homework/week2/Fashion_Blog.png",
+		"/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/homework/week2/style.css",
+		"/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/homework/week1/resume/Git Diff.diff",
+		"/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/homework/week1/resume/index.html",
+		"/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/lesson1/solutions/cookie_recipe/index.html"
 	],
 	"find":
 	{
@@ -87,18 +180,88 @@
 			[
 				{
 					"buffer": 0,
-					"file": "solutions/cookie_recipe/index.html",
+					"file": "/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/homework/week1/resume/index.html",
 					"settings":
 					{
-						"buffer_size": 1876,
+						"buffer_size": 1252,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								479,
+								479
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/homework/week2/index.html",
+					"settings":
+					{
+						"buffer_size": 2592,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								819,
+								819
 							]
 						],
 						"settings":
@@ -151,7 +314,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 35.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -165,7 +328,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 31.0
 	},
 	"layout":
 	{
@@ -190,6 +353,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.git":
+	{
+		"height": 100.0
+	},
 	"replace":
 	{
 		"height": 0.0
@@ -215,6 +382,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 318.0,
+	"side_bar_width": 203.0,
 	"status_bar_visible": true
 }
