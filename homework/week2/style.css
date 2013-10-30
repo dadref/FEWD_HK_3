@@ -1,0 +1,34 @@
+h1 a 
+{
+	color: red;
+}
+
+h1 a:hover
+{}
+
+body {
+	color: black;
+}
+body {font-family: "quicksand"; }
+h3 {color: silver;
+}
+h3 {font-size: 32px; 
+}
+h2 {font-size: 40px;
+}
+h2 {color: black}
+
+p::first-letter {
+  font-weight: bold;
+  font-size: 40px;
+  color: darkgray;
+}
+ul {
+	padding: 0px;
+}
+	li {list-style: :none;
+	}
+	li {
+		float: left;
+		padding: 4px; 
+		8px; }
