@@ -1,0 +1,9 @@
+$GAME START
+
+#get user input
+user_choice = get_user_choice
+
+#get robot input
+robot_choice = randon(rock,paper,scissors)
+
+#setup the datastore

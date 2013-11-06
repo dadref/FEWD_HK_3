@@ -35,7 +35,7 @@
 			"file": "/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/homework/week1/resume/index.html",
 			"settings":
 			{
-				"buffer_size": 1252,
+				"buffer_size": 1266,
 				"line_ending": "Unix"
 			}
 		},
@@ -43,17 +43,39 @@
 			"file": "/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/homework/week2/index.html",
 			"settings":
 			{
-				"buffer_size": 2592,
+				"buffer_size": 2664,
 				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/homework/week3/Rock-paper-scissors.html",
+			"settings":
+			{
+				"buffer_size": 474,
+				"line_ending": "Unix",
+				"name": "target_result = win"
+			}
+		},
+		{
+			"file": "/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/homework/week3/rock-paper-scissors-2",
+			"settings":
+			{
+				"buffer_size": 142,
+				"line_ending": "Unix",
+				"name": "$GAME START"
 			}
 		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 392.0,
+		"height": 167.0,
 		"selected_items":
 		[
+			[
+				"git pu",
+				"Git: Pull"
+			],
 			[
 				"ls",
 				"Sort Lines (Case Sensitive)"
@@ -115,7 +137,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 400.0
+		"width": 333.0
 	},
 	"console":
 	{
@@ -175,7 +197,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -183,15 +205,15 @@
 					"file": "/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/homework/week1/resume/index.html",
 					"settings":
 					{
-						"buffer_size": 1252,
+						"buffer_size": 1266,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								479,
-								479
+								0,
+								0
 							]
 						],
 						"settings":
@@ -253,15 +275,15 @@
 					"file": "/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/homework/week2/index.html",
 					"settings":
 					{
-						"buffer_size": 2592,
+						"buffer_size": 2664,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								819,
-								819
+								0,
+								0
 							]
 						],
 						"settings":
@@ -315,6 +337,148 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 35.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/homework/week3/Rock-paper-scissors.html",
+					"settings":
+					{
+						"buffer_size": 474,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								217,
+								217
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_name": "target_result = win",
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/homework/week3/rock-paper-scissors-2",
+					"settings":
+					{
+						"buffer_size": 142,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_name": "$GAME START",
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
