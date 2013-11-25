@@ -8,11 +8,17 @@
      padding:10px;
      border:1px solid black;
 }
-
+#buttons-wrapper,
+#buttons-wrapper>form {
+     padding:10px;
+     border:1px solid black;
+}
 
 
 /*Rename classes/ids for readability*/
-#img1{
+/*rename image for the position. ie profile-picture instead of img*/
+
+#iprofile-pic{
      margin-top: 50px;
 }
 

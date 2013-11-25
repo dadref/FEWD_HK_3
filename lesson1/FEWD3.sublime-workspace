@@ -4,6 +4,58 @@
 		"selected_items":
 		[
 			[
+				"in",
+				"input"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"com",
+				"computerInput"
+			],
+			[
+				"robo",
+				"robotInput"
+			],
+			[
+				"get",
+				"getRobotInput"
+			],
+			[
+				"pap",
+				"paper"
+			],
+			[
+				"co",
+				"computerScore"
+			],
+			[
+				"user",
+				"userInput"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"s",
+				"scissors"
+			],
+			[
+				"pa",
+				"paper"
+			],
+			[
+				"r",
+				"rock"
+			],
+			[
+				"con",
+				"convertCelsiusToFarheinheit"
+			],
+			[
 				"borde",
 				"border-color"
 			],
@@ -32,49 +84,75 @@
 	"buffers":
 	[
 		{
-			"file": "/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/homework/week1/resume/index.html",
+			"file": "/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/homework/carousel_obfuscated/index.html",
 			"settings":
 			{
-				"buffer_size": 1266,
+				"buffer_size": 1444,
 				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/homework/week2/index.html",
-			"settings":
-			{
-				"buffer_size": 2664,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/homework/week3/Rock-paper-scissors.html",
-			"settings":
-			{
-				"buffer_size": 474,
-				"line_ending": "Unix",
-				"name": "target_result = win"
-			}
-		},
-		{
-			"file": "/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/homework/week3/rock-paper-scissors-2",
-			"settings":
-			{
-				"buffer_size": 142,
-				"line_ending": "Unix",
-				"name": "$GAME START"
 			}
 		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 167.0,
+		"height": 87.0,
 		"selected_items":
 		[
 			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git commi",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"git",
+				"Git: Push"
+			],
+			[
 				"git pu",
-				"Git: Pull"
+				"Git: Push"
+			],
+			[
+				"git cust",
+				"Git: Custom Command"
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"git cus",
+				"Git: Custom Command"
+			],
+			[
+				"git custom command",
+				"Git: Custom Command"
+			],
+			[
+				"puh",
+				"Git: Push"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"git diff",
+				"Git: Diff All"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"cut",
+				"Git: Custom Command"
 			],
 			[
 				"ls",
@@ -89,16 +167,8 @@
 				"Git: Commit"
 			],
 			[
-				"git add",
-				"Git: Add Current File"
-			],
-			[
 				"commi",
 				"Git: Commit"
-			],
-			[
-				"git diff",
-				"Git: Diff Staged"
 			],
 			[
 				"git log",
@@ -107,10 +177,6 @@
 			[
 				"diff al",
 				"Git: Diff All"
-			],
-			[
-				"git cust",
-				"Git: Custom Command"
 			],
 			[
 				"stash",
@@ -137,7 +203,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 333.0
+		"width": 518.0
 	},
 	"console":
 	{
@@ -154,6 +220,34 @@
 	},
 	"file_history":
 	[
+		"/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/lesson12/starter_code/refactor/refactor.css",
+		"/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/lesson12/starter_code/refactor/index.html",
+		"/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/lesson12/starter_code/refactor/refactor.js",
+		"/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/lesson12/starter_code/color_scheme/js/index.js",
+		"/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/homework/carousel_obfuscated/index.html",
+		"/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/homework/carousel_obfuscated/js/index.js",
+		"/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/homework/carousel_obfuscated/css/style.css",
+		"/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/lesson1/slides.md",
+		"/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/lesson10/starter_code/carousel_obfuscated/index.html",
+		"/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/lesson9/homework/divided-times-obfuscated/index.html",
+		"/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/lesson9/homework/divided-times-obfuscated/js/main.js",
+		"/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/lesson9/homework/divided-times-obfuscated copy/index.html",
+		"/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/lesson8/homework/rock_paper_scissors/js/main.js",
+		"/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/lesson8/homework/rock_paper_scissors/index.html",
+		"/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/lesson9/homework/divided-times-obfuscated copy/js/main.js",
+		"/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/lesson8/homework/rock_paper_scissors_Obfuscated/index.html",
+		"/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/lesson7/starter_code/temp_converter/js/main.js",
+		"/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/lesson8/homework/rock_paper_scissors_Obfuscated/js/index.js",
+		"/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/lesson8/homework/rock_paper_scissors_Obfuscated/css/style.css",
+		"/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/lesson7/starter_code/temp_converter/index.html",
+		"/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/lesson7/starter_code/temp_converter/css/main.css",
+		"/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/lesson8/starter_code/cash_register/index.html",
+		"/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/lesson8/starter_code/cash_register/main.js",
+		"/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/homework/week1/resume/index.html",
+		"/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/homework/week2/index.html",
+		"/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/homework/week3/Rock-paper-scissors.html",
+		"/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/homework/week3/rock-paper-scissors-2",
+		"/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/homework/week3/Temperature.html",
 		"/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/homework/week1/resume/style.css",
 		"/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/lesson1/solutions/cookie_recipe/style.css",
 		"/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/homework/week2/fashion_photo2.jpeg",
@@ -161,7 +255,6 @@
 		"/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/homework/week2/Fashion_Blog.png",
 		"/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/homework/week2/style.css",
 		"/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/homework/week1/resume/Git Diff.diff",
-		"/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/homework/week1/resume/index.html",
 		"/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/lesson1/solutions/cookie_recipe/index.html"
 	],
 	"find":
@@ -197,93 +290,23 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/homework/week1/resume/index.html",
+					"file": "/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/homework/carousel_obfuscated/index.html",
 					"settings":
 					{
-						"buffer_size": 1266,
+						"buffer_size": 1444,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close"
-							],
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/homework/week2/index.html",
-					"settings":
-					{
-						"buffer_size": 2664,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
+								1037,
+								1037
 							]
 						],
 						"settings":
@@ -336,149 +359,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 35.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/homework/week3/Rock-paper-scissors.html",
-					"settings":
-					{
-						"buffer_size": 474,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								217,
-								217
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"auto_name": "target_result = win",
-							"bh_regions":
-							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close"
-							],
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/homework/week3/rock-paper-scissors-2",
-					"settings":
-					{
-						"buffer_size": 142,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"auto_name": "$GAME START",
-							"bh_regions":
-							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close"
-							],
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 404.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -519,7 +400,7 @@
 	"menu_visible": true,
 	"output.git":
 	{
-		"height": 100.0
+		"height": 113.0
 	},
 	"replace":
 	{
@@ -546,6 +427,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 203.0,
+	"side_bar_width": 68.0,
 	"status_bar_visible": true
 }
