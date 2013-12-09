@@ -1,0 +1,13 @@
+Add a todo list item
+Click the add button
+--> Get the value of the input
+--> Create an HTML element, add the Todo text.
+--> Append the HTML element to the todo list,
+
+Complete a todo list them
+Check the checkbox
+--> Add the class 'done' to the todo HTML element,
+
+Edit a Todo item
+Click on the Edit button
+-->

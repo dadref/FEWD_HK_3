@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"border",
+				"border-box"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
 				"in",
 				"input"
 			],
@@ -84,10 +92,40 @@
 	"buffers":
 	[
 		{
-			"file": "/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/homework/carousel_obfuscated/index.html",
+			"file": "/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/lesson13/starter_code/boxes/index.html",
 			"settings":
 			{
-				"buffer_size": 1444,
+				"buffer_size": 1197,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/lesson13/starter_code/boxes/css/boxing.css",
+			"settings":
+			{
+				"buffer_size": 902,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": ".clearfix:after {\n  content: \".\";\n  display: block;\n  clear: both;\n  visibility: hidden;\n  line-height: 0;\n  height: 0;\n}\n\nheader {\n  border: 2px solid black;\n  margin: 20px 0;\n  box-sizing: border-box;\n}\n\nfooter {\n  border: 2px solid black;\n  box-sizing: border-box;\n}\n\nul li {\n  border: 1px solid black;\n  width: 40px;\n  height: 20px;\n  float: left;\n  margin-right: 20px;\n  display: none;\n}\n\nul li:first-child {\n  display: block;\n}\n\n#container {\n  width: 100%;\n}\n\n.line {\n  border: 1px; solid black;\n  width: 40px; \n  \n}\n.red {\n  width: 100%;\n  height: 40px;\n  border: 1px solid black;\n  background-color: red;\n  margin-bottom: 20px;\n  box-sizing: border-box;\n}\n\n.green {\n  border: 1px solid black;\n  background-color: green;\n  margin: 2%;\n  width: 96%;\n  height: 40px;\n  display: inline-block;\n  box-sizing: border-box;\n}\n\n.blue {\n  border: 1px solid black;\n  background-color: blue;\n  float: left;\n  width: 96%;\n  height: 40px;\n  margin: 2%;\n  box-sizing: border-box;\n}",
+			"file": "/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/lesson13/starter_code/boxes/css/boxing-mobile.css",
+			"file_size": 915,
+			"file_write_time": 1385382592000000,
+			"settings":
+			{
+				"buffer_size": 973,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": ".clearfix:after {\n  content: \".\";\n  display: block;\n  clear: both;\n  visibility: hidden;\n  line-height: 0;\n  height: 0;\n}\n\nheader {\n  border: 2px solid black;\n  margin: 20px 0;\n  box-sizing: border-box;\n}\n\nfooter {\n  border: 2px solid black;\n  box-sizing: border-box;\n}\n\nul li {\n  border: 1px solid black;\n  width: 40px;\n  height: 20px;\n  float: left;\n  margin-right: 20px;\n}\n\nul li:first-child {\n  display: none;\n}\n\n#container {\n  width: 100%;\n}\n\n.red {\n  width: 100%;\n  height: 40px;\n  border: 1px solid black;\n  background-color: red;\n  margin-bottom: 20px;\n  box-sizing: border-box;\n}\n\n.green {\n  border: 1px solid black;\n  background-color: green;\n  margin: 1.1%;\n  width: 30%;\n  height: 40px;\n  display: inline-block;\n  box-sizing: border-box;\n}\n\n.blue {\n  border: 1px solid black;\n  background-color: blue;\n  float: left;\n  width: 30%;\n  height: 40px;\n  margin: 1.2%;\n  box-sizing: border-box;\n}.clearfix:after {\n  content: \".\";\n  display: block;\n  clear: both;\n  visibility: hidden;\n  line-height: 0;\n  height: 0;\n}\n\nheader {\n  border: 2px solid black;\n  margin: 20px 0;\n  box-sizing: border-box;\n}\n\nfooter {\n  border: 2px solid black;\n  box-sizing: border-box;\n}\n\nul li {\n  border: 1px solid black;\n  width: 40px;\n  height: 20px;\n  float: left;\n  margin-right: 20px;\n}\n\nul li:first-child {\n  display: none;\n}\n\n#container {\n  width: 100%;\n}\n\n.red {\n  width: 100%;\n  height: 40px;\n  border: 1px solid black;\n  background-color: red;\n  margin-bottom: 20px;\n  box-sizing: border-box;\n}\n\n.green {\n  border: 1px solid black;\n  background-color: green;\n  margin: 1.1%;\n  width: 30%;\n  height: 40px;\n  display: inline-block;\n  box-sizing: border-box;\n}\n\n.blue {\n  border: 1px solid black;\n  background-color: blue;\n  float: left;\n  width: 30%;\n  height: 40px;\n  margin: 1.2%;\n  box-sizing: border-box;\n}",
+			"file": "/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/lesson13/starter_code/boxes/css/boxing-media-query.css",
+			"file_size": 121,
+			"file_write_time": 1385378479000000,
+			"settings":
+			{
+				"buffer_size": 1804,
 				"line_ending": "Unix"
 			}
 		}
@@ -220,11 +258,15 @@
 	},
 	"file_history":
 	[
+		"/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/lesson13/starter_code/boxes/css/boxing-media-query.css",
+		"/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/lesson13/starter_code/boxes/css/boxing-mobile.css",
+		"/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/homework/Responsive/Responsive-desktop.html",
+		"/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/homework/Responsive/Responsive-desktop.css",
+		"/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/homework/carousel_obfuscated/index.html",
 		"/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/lesson12/starter_code/refactor/refactor.css",
 		"/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/lesson12/starter_code/refactor/index.html",
 		"/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/lesson12/starter_code/refactor/refactor.js",
 		"/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/lesson12/starter_code/color_scheme/js/index.js",
-		"/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/homework/carousel_obfuscated/index.html",
 		"/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/homework/carousel_obfuscated/js/index.js",
 		"/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/homework/carousel_obfuscated/css/style.css",
 		"/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/lesson1/slides.md",
@@ -295,18 +337,18 @@
 			[
 				{
 					"buffer": 0,
-					"file": "/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/homework/carousel_obfuscated/index.html",
+					"file": "/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/lesson13/starter_code/boxes/index.html",
 					"settings":
 					{
-						"buffer_size": 1444,
+						"buffer_size": 1197,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1037,
-								1037
+								935,
+								935
 							]
 						],
 						"settings":
@@ -359,7 +401,91 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 404.0,
+						"translation.y": 41.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/lesson13/starter_code/boxes/css/boxing.css",
+					"settings":
+					{
+						"buffer_size": 902,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								902
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/lesson13/starter_code/boxes/css/boxing-mobile.css",
+					"settings":
+					{
+						"buffer_size": 973,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								973
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 221.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/fredchery/Dropbox/GA_FEWD/FEWD_HK_3/lesson13/starter_code/boxes/css/boxing-media-query.css",
+					"settings":
+					{
+						"buffer_size": 1804,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1356,
+								1356
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1166.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -427,6 +553,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 68.0,
+	"side_bar_width": 289.0,
 	"status_bar_visible": true
 }
